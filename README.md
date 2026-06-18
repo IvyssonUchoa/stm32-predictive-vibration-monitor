@@ -4,7 +4,7 @@
 
 Este projeto apresenta o desenvolvimento de um sistema embarcado de baixo consumo energético para monitoramento preditivo de motores elétricos por meio da análise de vibração.
 
-A solução foi desenvolvida utilizando um microcontrolador STM32, um sensor inercial MPU6050, cálculo de RMS e técnicas de Tiny Machine Learning (TinyML) para identificação automática de padrões de funcionamento do equipamento monitorado.
+A solução foi desenvolvida utilizando um microcontrolador STM32F446RE, um sensor inercial MPU6050, cálculo de RMS e treinamento de um Tiny Machine Learning (TinyML) no Edge Impulse para identificação automática de padrões de funcionamento do equipamento monitorado.
 
 O sistema realiza aquisições periódicas de vibração, calcula indicadores estatísticos de condição e executa inferência local diretamente no microcontrolador, permitindo detectar comportamentos anormais sem necessidade de conexão permanente com servidores externos.
 
@@ -367,6 +367,7 @@ $$\frac{3400}{0,82416} \approx 4.125\ \text{dias} \approx \text{11,3 anos}$$
 # Autores
 
 **Ivysson Fernandes de Queiroz Uchôa**
+
 **Ícaro Emanuel de Queiroz Uchôa**
 
 Projeto desenvolvido para a disciplina de Sistemas Embarcados Bare Metal utilizando STM32 e TinyML.
