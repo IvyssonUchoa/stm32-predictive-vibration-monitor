@@ -1,0 +1,14 @@
+../Core/Src/main.c:105:6:ei_printf	1
+../Core/Src/main.c:109:5:_write	1
+../Core/Src/main.c:116:6:emitir_sinal_alerta	1
+../Core/Src/main.c:131:6:emitir_sinal_atencao	1
+../Core/Src/main.c:143:6:emitir_sinal_sucesso	1
+../Core/Src/main.c:156:5:main	11
+../Core/Src/main.c:395:6:SystemClock_Config	3
+../Core/Src/main.c:444:13:MX_I2C1_Init	2
+../Core/Src/main.c:478:13:MX_RTC_Init	5
+../Core/Src/main.c:548:13:MX_TIM2_Init	4
+../Core/Src/main.c:593:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:626:13:MX_GPIO_Init	1
+../Core/Src/main.c:671:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:683:6:Error_Handler	1

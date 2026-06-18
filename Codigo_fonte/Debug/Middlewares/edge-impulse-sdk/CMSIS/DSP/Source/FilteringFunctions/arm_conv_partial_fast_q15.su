@@ -1,0 +1,1 @@
+../Middlewares/edge-impulse-sdk/CMSIS/DSP/Source/FilteringFunctions/arm_conv_partial_fast_q15.c:58:12:arm_conv_partial_fast_q15	880	static,ignoring_inline_asm

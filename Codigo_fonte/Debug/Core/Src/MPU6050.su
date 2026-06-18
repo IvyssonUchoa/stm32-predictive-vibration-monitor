@@ -1,0 +1,8 @@
+../Core/Src/MPU6050.c:6:6:MPU6050_Init	16	static
+../Core/Src/MPU6050.c:18:6:MPU6050_Update	16	static
+../Core/Src/MPU6050.c:24:6:MPU6050_ComputeAngles	24	static
+../Core/Src/MPU6050.c:32:6:MPU6050_ComputeComplementary	16	static
+../Core/Src/MPU6050.c:41:5:MPU6050_IsStatic	24	static
+../Core/Src/MPU6050.c:53:6:MPU6050_UpdateYawZUPT	16	static
+../Core/Src/MPU6050.c:66:6:MPU6050_Read_Accel	56	static
+../Core/Src/MPU6050.c:82:6:MPU6050_Read_Gyro	56	static

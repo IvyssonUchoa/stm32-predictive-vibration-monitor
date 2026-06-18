@@ -1,0 +1,103 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+# Toolchain: GNU Tools for STM32 (14.3.rel1)
+################################################################################
+
+C++M_SRCS := 
+CPP_SRCS := 
+S_UPPER_SRCS := 
+O_SRCS := 
+ELF_SRCS := 
+C_UPPER_SRCS := 
+CXX_SRCS := 
+CCM_SRCS := 
+C++_SRCS := 
+OBJ_SRCS := 
+S_SRCS := 
+CC_SRCS := 
+C_SRCS := 
+CXXM_SRCS := 
+CYCLO_FILES := 
+OBJDUMP_LIST := 
+CCM_DEPS := 
+C_UPPER_DEPS := 
+S_DEPS := 
+CXXM_DEPS := 
+C_DEPS := 
+CC_DEPS := 
+SIZE_OUTPUT := 
+C++_DEPS := 
+SU_FILES := 
+EXECUTABLES := 
+OBJS := 
+CXX_DEPS := 
+MAP_FILES := 
+S_UPPER_DEPS := 
+C++M_DEPS := 
+CPP_DEPS := 
+
+# Every subdirectory with source files must be described here
+SUBDIRS := \
+Core/Src \
+Core/Startup \
+Drivers/STM32F4xx_HAL_Driver/Src \
+Middlewares/edge-impulse-sdk/CMSIS/DSP/Source/BasicMathFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/DSP/Source/BayesFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/DSP/Source/CommonTables \
+Middlewares/edge-impulse-sdk/CMSIS/DSP/Source/ComplexMathFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/DSP/Source/ControllerFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/DSP/Source/DistanceFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/DSP/Source/FastMathFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/DSP/Source/FilteringFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/DSP/Source/InterpolationFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/DSP/Source/MatrixFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/DSP/Source/QuaternionMathFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/DSP/Source/SVMFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/DSP/Source/StatisticsFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/DSP/Source/SupportFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/DSP/Source/TransformFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/NN/Source/ActivationFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/NN/Source/BasicMathFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/NN/Source/ConcatenationFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/NN/Source/ConvolutionFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/NN/Source/FullyConnectedFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/NN/Source/NNSupportFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/NN/Source/PoolingFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/NN/Source/ReshapeFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/NN/Source/SVDFunctions \
+Middlewares/edge-impulse-sdk/CMSIS/NN/Source/SoftmaxFunctions \
+Middlewares/edge-impulse-sdk/classifier \
+Middlewares/edge-impulse-sdk/dsp/dct \
+Middlewares/edge-impulse-sdk/dsp/image \
+Middlewares/edge-impulse-sdk/dsp/kissfft \
+Middlewares/edge-impulse-sdk/dsp \
+Middlewares/edge-impulse-sdk/porting/ambiq \
+Middlewares/edge-impulse-sdk/porting/android \
+Middlewares/edge-impulse-sdk/porting/arduino \
+Middlewares/edge-impulse-sdk/porting/brickml \
+Middlewares/edge-impulse-sdk/porting/ceva-npn \
+Middlewares/edge-impulse-sdk/porting/clib \
+Middlewares/edge-impulse-sdk/porting/ethos-core-driver/src \
+Middlewares/edge-impulse-sdk/porting/himax-we2 \
+Middlewares/edge-impulse-sdk/porting/iar \
+Middlewares/edge-impulse-sdk/porting/infineon-psoc62 \
+Middlewares/edge-impulse-sdk/porting/mbed \
+Middlewares/edge-impulse-sdk/porting/mingw32 \
+Middlewares/edge-impulse-sdk/porting/particle \
+Middlewares/edge-impulse-sdk/porting/posix \
+Middlewares/edge-impulse-sdk/porting/raspberry \
+Middlewares/edge-impulse-sdk/porting/renesas-ra \
+Middlewares/edge-impulse-sdk/porting/seeed-vision-ai \
+Middlewares/edge-impulse-sdk/porting/stm32-cubeai \
+Middlewares/edge-impulse-sdk/porting/synaptics \
+Middlewares/edge-impulse-sdk/porting/zephyr \
+Middlewares/edge-impulse-sdk/tensorflow/lite/c \
+Middlewares/edge-impulse-sdk/tensorflow/lite/core/api \
+Middlewares/edge-impulse-sdk/tensorflow/lite/kernels/custom \
+Middlewares/edge-impulse-sdk/tensorflow/lite/kernels/internal \
+Middlewares/edge-impulse-sdk/tensorflow/lite/kernels \
+Middlewares/edge-impulse-sdk/tensorflow/lite/micro \
+Middlewares/edge-impulse-sdk/tensorflow/lite/micro/kernels \
+Middlewares/edge-impulse-sdk/tensorflow/lite/micro/memory_planner \
+Middlewares/tflite-model \
+

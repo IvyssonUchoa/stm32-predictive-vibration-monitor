@@ -1,0 +1,1 @@
+../Middlewares/edge-impulse-sdk/CMSIS/NN/Source/NNSupportFunctions/arm_nn_add_q7.c:45:6:arm_nn_add_q7	96	static,ignoring_inline_asm

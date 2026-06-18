@@ -1,0 +1,2 @@
+/home/ivysson/STM32CubeIDE/workspace_2.1.0/Projeto final/Middlewares/edge-impulse-sdk/CMSIS/DSP/Include/dsp/svm_functions.h:65:27:arm_exponent_f32	24	static
+../Middlewares/edge-impulse-sdk/CMSIS/DSP/Source/SVMFunctions/arm_svm_polynomial_predict_f32.c:464:6:arm_svm_polynomial_predict_f32	56	static
