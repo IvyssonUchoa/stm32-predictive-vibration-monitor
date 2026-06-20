@@ -359,7 +359,7 @@ $$\frac{3400}{0,82416} \approx 4.125\ \text{dias} \approx \text{11,3 anos}$$
 
 # Vídeo Demonstrativo
 
-[![Watch the video](https://img.youtube.com/vi/9n8sXo2l5j0/maxresdefault.jpg)]()
+[![Watch the video](https://img.youtube.com/vi/T6yau4plxD4?si=yuhKWIRREDmgPA_k/maxresdefault.jpg)](https://youtu.be/T6yau4plxD4?si=yuhKWIRREDmgPA_k)
 
 ---
 ---
